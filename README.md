@@ -71,10 +71,10 @@ Follow the steps below to run the project locally:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/smit-bhalani/ems.git
 
 # Go to project directory
-cd employment-management-system
+cd ems
 
 # Install dependencies
 npm install
